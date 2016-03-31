@@ -1,0 +1,16 @@
+{
+  "name"        : "jnweaver/gravity_forms_editor_entries_permit",
+  "description" : "Wordpress plugin that grants Gravity Forms entries capabilities to the Editor role",
+  "authors"     : [
+    {
+      "name"    : "Nick Weaver",
+      "email"   : "jnweaver@wisc.edu",
+      "homepage": "https://github.com/jnweaver",
+      "role"    : "Original author"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
